@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DergDev
-- 👀 I’m interested in GameDev / Golang/ C#/ Unity/ Python/ areonautic
+- 👀 I’m interested in GameDev/ Vr-Ar/ Golang/ C#/ Unity/ Python/ Demoscene Art
 - 🌱 I’m currently learning Golang/ Python/ Java
 - 💞️ I’m looking to collaborate on no projects... For now
 - 📫 How to reach me linked in : https://www.linkedin.com/in/julien-guillochon/
